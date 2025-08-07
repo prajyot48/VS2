@@ -1,0 +1,7 @@
+# Ignore binary and compiled files
+*.exe
+*.o
+*.jar
+
+# Ignore entire libraries directory
+libraries/
